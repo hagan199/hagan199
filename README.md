@@ -1,21 +1,21 @@
 ![MasterHead](https://digitaledgetech.in/images/Banner_03.gif)
 
-<h1 align="center">Hi 👋, I'm Emmanuel Hagan</h1>
+# Hi 👋, I'm Emmanuel Hagan
 
-
-## ✨About Me
+## ✨ About Me
 ```javascript
 const aboutMe = {
   country: "Ghana",
   status: "Open to new opportunities",
   lookingFor: "Front-end developer" || "Full-stack web developer",
-  code: [HTML, CSS, Ruby, Javascript, CSS, etc.],
-  challenge: "I am honing my tecnical and professnional skills at Microverse",
-  funFacts: ['I have a computer science background with more thab 6+ years of 
-  professional and communication experience,
-  'I am able to making software solutions for small businesses']
+  code: ["HTML", "CSS", "Ruby", "Javascript", "CSS", "etc."],
+  challenge: "I am honing my technical and professional skills at Microverse",
+  funFacts: [
+    "I have a computer science background with more than 6+ years of professional and communication experience",
+    "I am able to make software solutions for small businesses"
+  ]
 }
-```
+
   <br>
 
 <br>
