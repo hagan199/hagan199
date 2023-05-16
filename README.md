@@ -36,6 +36,3 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitt26&show_icons=true&locale=en" alt="ankitt26" /></p>
-
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitt26&" alt="ankitt26" /></p>
