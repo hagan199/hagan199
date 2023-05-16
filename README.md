@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Emmanuel Hagan</h1>
 
-I enjoy building software that solves real-world problems. I've always liked looking at complex problems and maintaining software systems.
-
 <h4 align="center" style="color:#B6EAFA" >I enjoy building software that solves real-world problems.🙂. 
 <br>I've always liked looking at complex problems and maintaining software systems.
  <br>school where students collaborate globally and make real-world projects <br> to learn full-stack development. </h4>
@@ -31,7 +29,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Emmahagan23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hagan199" height="20" width="30" /></a>
-<a href="https://linkedin.com/in/emmanuel-hagan-26219a95/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankhagan199it26k" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/emmanuel-hagan-26219a95/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hagan199" height="20" width="30" /></a>
 <a href="https://www.hackerrank.com/banyanhagan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hagan199" height="25" width="30" /></a>
 </p>
 
