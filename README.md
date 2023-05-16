@@ -5,16 +5,21 @@
 ## ✨About Me
 ```javascript
 const aboutMe = {
-Email: "haganemmanuel23@gmail.com"
-Country: "Ghana"
-Status: "Open to new opportunities"
-Looking for: "Front-end developer" or "Full-stack web developer"
-Code: [HTML, CSS, JavaScript, Bootstrap]
-Challenge: "I am honing my technical and professional skills at Microverse"
-Fun facts:
-"I have a computer science background with more than 10+ years of professional and communication experience."
-"I am able to make software solutions for small businesses."
-}
+  email: "haganemmanuel23@gmail.com",
+  country: "Ghana",
+  status: "Open to new opportunities",
+  lookingFor: ["Front-end developer", "Full-stack web developer"],
+  code: ["HTML", "CSS", "JavaScript", "Bootstrap"],
+  challenge: "I am honing my technical and professional skills at Microverse",
+  funFacts: [
+    "I have a computer science background with over 10+ years of professional and communication experience.",
+    "I am able to develop software solutions for small businesses.",
+  ],
+  hobbies: ["Reading", "Traveling", "Playing musical instruments"],
+  languages: ["English", "Twi"],
+
+};
+
 ```
   <br>
 <br>
