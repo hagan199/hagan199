@@ -6,7 +6,7 @@
 ```javascript
 const aboutMe = {
 
-  Email: "Emmanuel Hagan",
+  Email::"haganemmanuel23@gmail.com",
   country: "Ghana",
   status: "Open to new opportunities",
   lookingFor: "Front-end developer" || "Full-stack web developer",
