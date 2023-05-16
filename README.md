@@ -5,16 +5,15 @@
 ## ✨About Me
 ```javascript
 const aboutMe = {
-
-  Email::"haganemmanuel23@gmail.com",
-  country: "Ghana",
-  status: "Open to new opportunities",
-  lookingFor: "Front-end developer" || "Full-stack web developer",
-  code: [HTML, CSS, JavaScript, Bootstrap],
-  challenge: "I am honing my tecnical and professnional skills at Microverse",
-  funFacts: ['I have a computer science background with more thab 10+ years of 
-  professional and communication experience.',
-  'I am able to making software solutions for small businesses']
+Email: "haganemmanuel23@gmail.com"
+Country: "Ghana"
+Status: "Open to new opportunities"
+Looking for: "Front-end developer" or "Full-stack web developer"
+Code: [HTML, CSS, JavaScript, Bootstrap]
+Challenge: "I am honing my technical and professional skills at Microverse"
+Fun facts:
+"I have a computer science background with more than 10+ years of professional and communication experience."
+"I am able to make software solutions for small businesses."
 }
 ```
   <br>
@@ -26,12 +25,12 @@ const aboutMe = {
     <img src="https://img.shields.io/twitter/follow/Emmahagan23?logo=twitter&style=for-the-badge" alt="hagan199" />
   </a>
 </p>
-🔭 I’m currently working on myself
-🌱 I’m currently learning Full Stack Web Development
-👨‍💻 All of my projects are available at https://hagan199.github.io/my-portfolio/
-💬 Ask me about React, PHP, Laravel
-📫 How to reach me haganemmanuel23@gmail.com
-⚡ Fun fact: I am addicted to coffee and street food 😊
+🔭 I’m currently working on self-improvement.
+🌱 I’m currently learning Full Stack Web Development.
+👨‍💻 All of my projects are available at https://hagan199.github.io/my-portfolio/.
+💬 Feel free to ask me about React, PHP, Laravel.
+📫 You can reach me at haganemmanuel23@gmail.com.
+⚡ Fun fact: I am addicted to coffee and street food. 😊
 <br>
 <hr>
 <h3 align="left">Connect with me:</h3>
