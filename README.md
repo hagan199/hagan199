@@ -7,7 +7,7 @@
 ```javascript
 const aboutMe = {
 
-  Email: " Jawad.Nazari@outlook.com",
+  Email: " haganemmanuel23@gmail.com",
   country: "Ghana",
   status: "Open to new opportunities",
   lookingFor: "Front-end developer" || "Full-stack web developer",
