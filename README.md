@@ -2,9 +2,23 @@
 
 <h1 align="center">Hi 👋, I'm Emmanuel Hagan</h1>
 
-<h4 align="center" style="color:#B6EAFA" >I enjoy building software that solves real-world problems.🙂. 
-<br>I've always liked looking at complex problems and maintaining software systems.
- <br>school where students collaborate globally and make real-world projects <br> to learn full-stack development. </h4>
+
+## ✨About Me
+```javascript
+const aboutMe = {
+
+  Email: " Jawad.Nazari@outlook.com",
+  country: "Ghana",
+  status: "Open to new opportunities",
+  lookingFor: "Front-end developer" || "Full-stack web developer",
+  code: [HTML, CSS, JavaScript, Bootstrap],
+  challenge: "I am honing my tecnical and professnional skills at Microverse",
+  funFacts: ['I have a computer science background with more thab 6+ years of 
+  professional and communication experience,
+  'I am able to making software solutions for small businesses']
+}
+```
+  <br>
 
 <br>
 <img alt="coding" align="right" width="400" 
