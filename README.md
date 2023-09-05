@@ -8,15 +8,16 @@ const aboutMe = {
   email: "haganemmanuel23@gmail.com",
   country: "Ghana",
   status: "Open to new opportunities",
-  lookingFor: ["Front-end developer", "Full-stack web developer"],
+  lookingFor: ["Front-end developer", "Full-stack web developer","Laravel Backend Developer"],
   code: ["HTML", "CSS", "JavaScript", "Bootstrap"],
   challenge: "I am honing my technical and professional skills at Microverse",
   funFacts: [
-    "I have a computer science background with over 10+ years of professional and communication experience.",
+    "I am a team player and have experience with remote pair-programming and collaboration using GitHub and git-flow. I am constantly updating my skills and knowledge of emerging technologies and industry trends, with a tech stack that includes JavaScript, HTML, CSS, Laravel, React,, Redux, Node, Rails, Bootstrap, and databases such as PSQL and MySQL.
+.",
     "I am able to develop software solutions for small businesses.",
   ],
-  hobbies: ["Reading", "Traveling", "Playing musical instruments"],
-  languages: ["English", "Twi"],
+  hobbies: "Reading", "Soccer"
+  languages: ["English"],
 
 };
 
@@ -33,7 +34,7 @@ const aboutMe = {
 🔭 I’m currently working on self-improvement.
 🌱 I’m currently learning Full Stack Web Development.
 👨‍💻 All of my projects are available at https://hagan199.github.io/my-portfolio/.
-💬 Feel free to ask me about React, PHP, Laravel.
+💬 Feel free to ask me about React, PHP, or Laravel.
 📫 You can reach me at haganemmanuel23@gmail.com.
 ⚡ Fun fact: I am addicted to coffee and street food. 😊
 <br>
