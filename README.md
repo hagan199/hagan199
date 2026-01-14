@@ -8,45 +8,61 @@
 
 ## 👨‍💻 About Me
 
-I am a Backend and AI-focused Full-Stack Engineer with **5+ years of experience** building scalable, production-grade systems for real businesses. I specialize in **API design, AI-integrated applications, automation, and data-driven workflows**, with hands-on experience delivering **LLM-powered solutions** used in production.
+I am an **AI-enabled Backend and Full-Stack Engineer with 5+ years of experience** building scalable, production-grade systems for real-world businesses. I specialize in **API design, AI-integrated applications, automation, and data-driven workflows**, with hands-on experience delivering **LLM-powered solutions** in production.
 
-I currently work on AI-enabled platforms that power **conversational commerce, payments, analytics, and business automation**, with a strong focus on **clean architecture, data integrity, and system performance**.
+I currently work on platforms that power **conversational commerce, payments, analytics, and business automation**, with a strong focus on **clean architecture, data integrity, performance optimization, and system reliability**.
 
-I thrive in **remote, fast-paced environments**, collaborate well with cross-functional teams, and enjoy turning complex requirements into reliable, maintainable solutions.
+I thrive in **remote, fast-paced environments**, collaborate effectively with cross-functional teams, and enjoy turning complex business requirements into maintainable, scalable engineering solutions.
 
 ---
 
 ## 🧠 Core Skills
 
-**Backend & APIs**
+### Backend & APIs
 - Python, PHP (Laravel), Django, FastAPI
-- RESTful API design, JSON workflows, SQL (MySQL, PostgreSQL)
-- Authentication, payments, third-party integrations
+- RESTful API Design & Integration
+- JSON-based Workflows & Validation
+- SQL (MySQL, PostgreSQL)
+- Authentication & Authorization
+- Payment Gateway Integration
+- Webhooks & Third-Party APIs
 
-**AI & Automation**
-- LLM integrations (OpenAI / GPT APIs)
-- Conversational bots & agentic workflows
-- Structured prompting, function calling, data validation
+### AI & Automation (Applied)
+- LLM Integration (OpenAI / GPT APIs)
+- Conversational AI & Chatbots (WhatsApp / Web)
+- Prompt Engineering (Structured & Task-Oriented)
+- Function-Calling & Agentic Workflows
+- AI-Assisted Automation & Data Validation
 
-**Frontend**
-- Vue.js, React, JavaScript, TypeScript
+### Frontend
+- Vue.js, React
+- JavaScript, TypeScript
 
-**Cloud & DevOps**
-- AWS (EC2, S3), Docker, CI/CD
-- Git, GitHub, testing & deployment automation
+### Cloud & DevOps
+- AWS (EC2, S3)
+- Docker & CI/CD Pipelines
+- Deployment, Monitoring & Debugging
+- Git & GitHub
+
+### Engineering Practices
+- Clean Architecture & SOLID Principles
+- Test-Driven Development (TDD)
+- Code Reviews & Documentation
+- Agile & Remote Collaboration
+- Mentoring Junior Developers
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-### 🔹 Kola Market – AI Marketplace & WhatsApp Bot
+### 🔹 Kola Market – AI Marketplace & WhatsApp Bot Platform
 🌐 https://kola.market  
-📦 Backend, AI systems, payments, automation
 
-- Built an AI-powered WhatsApp Bot enabling merchants to process sales, payments, and training via chat
-- Integrated LLMs with structured JSON workflows for reliability
-- Designed scalable Laravel/Django APIs handling high-volume transactions
-- Improved order processing speed and payment success rates in production
+- Led backend and AI system design for an AI-powered digital marketplace supporting SMEs.
+- Built a conversational WhatsApp Bot enabling product discovery, order processing, payments, and training via chat.
+- Integrated LLMs with structured JSON workflows to ensure reliable, deterministic outputs.
+- Designed scalable APIs handling high-volume transactions and real-time payment verification.
+- Improved order processing speed, system reliability, and user engagement in production.
 
 ---
 
@@ -59,19 +75,18 @@ I thrive in **remote, fast-paced environments**, collaborate well with cross-fun
 ---
 
 ## 🤝 Open To
-- AI Engineer (Applied / Agentic)
+- Applied AI / GenAI Engineer roles
 - Backend Engineer (Python / Laravel)
-- Automation & Platform Engineering roles
+- AI Automation & Platform Engineering
 - Remote contract or full-time opportunities
 
 ---
 
 ## 🌐 Connect With Me
-
 - LinkedIn: https://www.linkedin.com/in/emmanuel-hagan
 - GitHub: https://github.com/hagan199
 - Email: haganemmanuel23@gmail.com
 
 ---
 
-⚡ Fun fact: I enjoy solving real-world problems with simple, scalable systems.
+⚡ Fun fact: I enjoy building simple systems that solve complex real-world problems.
