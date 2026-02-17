@@ -19,7 +19,7 @@ I thrive in **remote, fast-paced environments**, collaborate effectively with cr
 ## 🧠 Core Skills
 
 ### Backend & APIs
-- Python, PHP (Laravel), Django, FastAPI
+- Python, PHP (Laravel), nODE.JS, Django, FastAPI
 - RESTful API Design & Integration
 - JSON-based Workflows & Validation
 - SQL (MySQL, PostgreSQL)
